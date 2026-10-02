@@ -14,6 +14,7 @@ A collection of LeetCode Java and SQL solutions for DSA and interview preparatio
 | [0584-find-customer-referee](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Vedantmagdum/leetcode-java-sql-solutions/tree/master/1045-customers-who-bought-all-products) |
